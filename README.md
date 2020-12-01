@@ -1,9 +1,16 @@
 # Mini Social Network
 
 ### What is this?
-  This repo contains the source code of **Mini Social Network (Java Web)**.\
-  A project from Lab Web subject - Semester 5 - FPT University - HCMC campus.
-  
+This repo contains the source code of **Mini Social Network (Java Web)**.\
+A project from Lab Web subject - Semester 5 - FPT University - HCMC campus.
+
+### Requirement:
+What you will need to run this project:
+<ul>
+    <li>Microsoft SQL Server</li>
+    <li>Apache Tomcat 8.5</li>
+</ul>
+
 ### What you will find in this project:
 <ol>
     <li>Create an account <strong>(Hashing password as SHA-256)</strong></li>
