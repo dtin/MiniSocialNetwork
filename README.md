@@ -10,6 +10,7 @@
     <li>Login</li>
     <li>Active account if this is the <strong>first time</strong> user login</li>
     <li>What you can do with your account:</li>
+    <br>
     <ul>
         <li>Create:</li>
         <ol>
@@ -24,6 +25,7 @@
             <li>Delete a comment in a specific post <strong>(Only if you have authority)</strong></li>
         </ol>
     </ul>
+    <br>
     <li>Search for a specific post content</li>
     <li>Show notification when other user do any action to your post</li>
     <li>Logout</li>
