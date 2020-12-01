@@ -6,9 +6,9 @@
   
 ### What you will find in this project:
 <ol>
-    <li>Create an account (Hashing password as SHA-256)</li>
+    <li>Create an account <strong>(Hashing password as SHA-256)</strong></li>
     <li>Login</li>
-    <li>Active account if this is the **first time** user login</li>
+    <li>Active account if this is the <strong>first time</strong> user login</li>
     <li>What you can do with your account:\</li>
     <ul>
         <li>Create:</li>
@@ -19,8 +19,8 @@
         </ol>
         <li>Delete:</li>
         <ol>
-            <li>Delete a post **(Only if you have authority)**</li>
-            <li>Delete a comment in a specific post **(Only if you have authority)**</li>
+            <li>Delete a post <strong>(Only if you have authority)</strong></li>
+            <li>Delete a comment in a specific post <strong>(Only if you have authority)</strong></li>
         </ol>
     </ul>
     <li>Search for a specific post content</li>
