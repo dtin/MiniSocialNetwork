@@ -2,14 +2,14 @@
 
 ### What is this?
   This repo contains the source code of **Mini Social Network (Java Web)**.\
-  A project in Lab Web - Semester 5 - FPT University - HCMC campus.
+  A project from Lab Web subject - Semester 5 - FPT University - HCMC campus.
   
 ### What you will find in this project:
 <ol>
     <li>Create an account <strong>(Hashing password as SHA-256)</strong></li>
     <li>Login</li>
     <li>Active account if this is the <strong>first time</strong> user login</li>
-    <li>What you can do with your account:\</li>
+    <li>What you can do with your account:</li>
     <ul>
         <li>Create:</li>
         <ol>
@@ -17,6 +17,7 @@
             <li>Post a comment in to a specific post</li>
             <li>Drop emotion into a specific post</li>
         </ol>
+        <br>
         <li>Delete:</li>
         <ol>
             <li>Delete a post <strong>(Only if you have authority)</strong></li>
